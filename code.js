@@ -2,4 +2,5 @@
 
 function sum(a, b) {
   // FIX ME
+  return a+b
 }
